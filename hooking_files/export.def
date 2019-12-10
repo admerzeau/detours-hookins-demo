@@ -1,0 +1,7 @@
+EXPORTS
+   DetourFinishHelperProcess   @1 NONAME
+   HookedWriteFile
+   HookedCreateFileA
+   HookedDeleteFileA
+   HookedDeleteFileW
+   HookedSleep
